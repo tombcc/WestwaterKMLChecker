@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Westwater KML Checker_3.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>KML Checker</name>
+		<open>1</open>
+		<Placemark>
+			<name>Westwater Boat Launch</name>
+			<LookAt>
+				<longitude>-109.1015957968106</longitude>
+				<latitude>39.08640840344625</latitude>
+				<altitude>0</altitude>
+				<heading>2.010889794581901e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9999960628995</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-109.1015944444444,39.08611111111112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Westwater 2</name>
+			<LookAt>
+				<longitude>-109.1015958024003</longitude>
+				<latitude>39.08640837871814</latitude>
+				<altitude>0</altitude>
+				<heading>-1.623194491407565e-09</heading>
+				<tilt>0</tilt>
+				<range>2936.03512741633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-109.1022996123733,39.08924125970213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Westwater 3</name>
+			<LookAt>
+				<longitude>-109.1015958024003</longitude>
+				<latitude>39.08640837871814</latitude>
+				<altitude>0</altitude>
+				<heading>-1.623194491407565e-09</heading>
+				<tilt>0</tilt>
+				<range>2936.03512741633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-109.0997982534561,39.09405094725596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Path 1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-109.1015772459638,39.08615203466648,0 -109.1015143181438,39.08662493692537,0 -109.1015928372743,39.08692037694733,0 -109.1019553961328,39.08700786255671,0 -109.1020209886834,39.08713304691949,0 -109.1020724940776,39.0872789540897,0 -109.1018489247567,39.0873763109992,0 -109.1018541772701,39.08761000249635,0 -109.1019697486154,39.08777564748598,0 -109.102057891748,39.08805085819013,0 -109.1020647601951,39.0882654450181,0 -109.1020842160983,39.08861362471554,0 -109.1022001211661,39.08883195300805,0 -109.10228637123,39.0892557248191,0 -109.1024394890176,39.08912691132616,0 -109.1024385576122,39.08910477468032,0 -109.1024366439695,39.08906043192106,0 -109.1024456550882,39.08907487522063,0 -109.1024721761603,39.08910382447331,0 -109.1024812744177,39.0891185008665,0 -109.1025253805991,39.08915558075194,0 -109.102561247473,39.08919319478534,0 -109.1025977577869,39.08923892925409,0 -109.1026249993703,39.08926944246087,0 -109.1026531638087,39.08931532919856,0 -109.1026899667919,39.0893612749263,0 -109.102708465567,39.08938443882214,0 -109.1026861841645,39.09007282206137,0 -109.1025709475736,39.09044663663295,0 -109.1019000950164,39.09134949666939,0 -109.1011289004599,39.09233960816217,0 -109.1002899070171,39.09327353127707,0 -109.0997498444903,39.09419586568907,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
