@@ -74,7 +74,7 @@
 		<name>KML Checker</name>
 		<open>1</open>
 		<Placemark>
-			<name>Westwater Boat Launch</name>
+			<name>Start</name>
 			<LookAt>
 				<longitude>-109.1015957968106</longitude>
 				<latitude>39.08640840344625</latitude>
@@ -91,7 +91,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Westwater 2</name>
+			<name>Midpoint</name>
 			<LookAt>
 				<longitude>-109.1015958024003</longitude>
 				<latitude>39.08640837871814</latitude>
@@ -108,7 +108,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Westwater 3</name>
+			<name>Finish</name>
 			<LookAt>
 				<longitude>-109.1015958024003</longitude>
 				<latitude>39.08640837871814</latitude>
