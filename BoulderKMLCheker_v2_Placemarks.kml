@@ -1,0 +1,168 @@
+<kml>
+  <xmlns>http://www.opengis.net/kml/2.2</xmlns>
+  <xmlns:gx>http://www.google.com/kml/ext/2.2</xmlns:gx>
+  <xmlns:kml>http://www.opengis.net/kml/2.2</xmlns:kml>
+  <xmlns:atom>http://www.w3.org/2005/Atom</xmlns:atom>
+  <Document>
+    <name>BoulderKMLCheker_v2.kml</name>
+    <StyleMap>
+      <id>msn_ylw-pushpin</id>
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_ylw-pushpin</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_ylw-pushpin</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style>
+      <id>sh_ylw-pushpin</id>
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot>
+          <x>20</x>
+          <y>2</y>
+          <xunits>pixels</xunits>
+          <yunits>pixels</yunits>
+        </hotSpot>
+      </IconStyle>
+      <BalloonStyle>
+		</BalloonStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style>
+      <id>sn_ylw-pushpin</id>
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot>
+          <x>20</x>
+          <y>2</y>
+          <xunits>pixels</xunits>
+          <yunits>pixels</yunits>
+        </hotSpot>
+      </IconStyle>
+      <BalloonStyle>
+		</BalloonStyle>
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>Linestring</name>
+      <styleUrl>#msn_ylw-pushpin</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+				-105.2927055679329,40.01431350416622,0 -105.2944472444433,40.01403350754231,0 -105.2947573008115,40.01405243523338,0 -105.2948376716057,40.01409796695943,0 -105.2948721625985,40.01415965284544,0 -105.2948524464464,40.01431557685451,0 -105.2947914780244,40.01441001622351,0 -105.2946627669317,40.01452420683701,0 -105.2945960387055,40.01457296992397,0 -105.2942690598036,40.01482369414425,0 -105.2941457255342,40.01489913550059,0 -105.2940792763526,40.01493177567934,0 -105.2938359294062,40.01490137266901,0 -105.2936907747297,40.01494997118128,0 -105.2935842102719,40.01501596699568,0 -105.2933204089157,40.01508354131027,0 -105.293117511867,40.0151391670551,0 -105.2926148456252,40.01522742678212,0 -105.2923742150439,40.01528218490666,0 -105.2921442853817,40.01529667153416,0 -105.2919246318167,40.015311577535,0 -105.2917847032445,40.01534769528423,0 -105.2917174027945,40.01528138427067,0 -105.2916098675358,40.01514370730938,0 -105.2915621992732,40.01496176441599,0 -105.2915098659009,40.01480147246703,0 -105.2914214235521,40.01463059890088,0 -105.2914151729821,40.01458042339061,0 -105.2915154164381,40.01453250965794,0 -105.2919947321893,40.01445902751056,0 -105.2922703828971,40.01438942900057,0 -105.2925917657386,40.01433927414023,0 
+			</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Start</name>
+      <Point>
+        <coordinates>-105.292706,40.014314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Finish</name>
+      <Point>
+        <coordinates>-105.292592,40.014339,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.05 KM</name>
+      <Point>
+        <coordinates>-105.293280,40.014221,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.1 KM</name>
+      <Point>
+        <coordinates>-105.293855,40.014129,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.15000000000000002 KM</name>
+      <Point>
+        <coordinates>-105.294429,40.014036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.2 KM</name>
+      <Point>
+        <coordinates>-105.294865,40.014213,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.25 KM</name>
+      <Point>
+        <coordinates>-105.294578,40.014587,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.3 KM</name>
+      <Point>
+        <coordinates>-105.294152,40.014896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.35 KM</name>
+      <Point>
+        <coordinates>-105.293616,40.014996,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.39999999999999997 KM</name>
+      <Point>
+        <coordinates>-105.293067,40.015148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.44999999999999996 KM</name>
+      <Point>
+        <coordinates>-105.292496,40.015254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.49999999999999994 KM</name>
+      <Point>
+        <coordinates>-105.291917,40.015314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.5499999999999999 KM</name>
+      <Point>
+        <coordinates>-105.291585,40.015047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.6 KM</name>
+      <Point>
+        <coordinates>-105.291420,40.014617,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.65 KM</name>
+      <Point>
+        <coordinates>-105.291928,40.014469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>0.7000000000000001 KM</name>
+      <Point>
+        <coordinates>-105.292495,40.014354,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
